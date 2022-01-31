@@ -27,3 +27,12 @@ The following SOPs and presentations were developed in order to aid the clients 
 - Day 3 Workbook https://docs.google.com/document/d/1aqBpxwMsjJVy3uwghYIZn9Kxb5qw4MzuClENth6y4mk/edit?usp=sharing
 - Day 6 Workbook https://docs.google.com/document/d/17YVwKji7JWS0Lb7sllx6aALIJ6yj1YAjrmbjFbgTk40/edit
 - Day 7 Workbook https://docs.google.com/document/d/1oXrMpcXWdBaZ_vm44mpGm-hZRik6ByHSeAW2bS5w0cc/edit?usp=sharing
+
+- Day 1 Slides https://docs.google.com/presentation/d/1157OiHvWFni4Y1kyXs0amNEVs8TkKTWyv0eOd_WoqMo/edit?usp=sharing
+- Day 2 Slides https://docs.google.com/presentation/d/1WylmDsU0h8kS9j5bRxZU4MYVIijWOQZ3F8n8WoN5N78/edit?usp=sharing
+- Day 3 Slides https://docs.google.com/presentation/d/1rfYmTjFvX2cVcYYZlYQ7mticDJzNhMBBa8XCWzPP_Xc/edit?usp=sharing
+- Day 4 Slides https://docs.google.com/presentation/d/17PhfZdBJyCH3ZPLjD03jYCMgMYaDYeS6b6u7xS95jKs/edit?usp=sharing
+- Day 6 Slides https://docs.google.com/presentation/d/1DSLJTNJYCosgKrOiv58flw7s8HwCcHWl1KSOzP4cKRI/edit?usp=sharing
+- Day 7 Slides https://docs.google.com/presentation/d/18cFntw_JjuBFV9iCrgUNNHilff-TR-IcWgW9cvhi_WY/edit?usp=sharing
+
+Due to lack of resources, this project was put on hold. 
