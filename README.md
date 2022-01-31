@@ -22,8 +22,8 @@ The Cloud servers were configured as shown in the diagram below.
 
 The following SOPs and presentations were developed in order to aid the clients website creation. 
 
-Day 1 Workbook https://docs.google.com/document/d/11BmsXZ9kF5FUI5_A__yEyMkvPGu-vN1inVZv2RY4LIE/edit?usp=sharing
-Day 2 Workbook https://docs.google.com/document/d/1oyJ1V-gYGGxB5-6sQ4a6NH_bVj5fcuYQ24ON3G9CW5Y/edit?usp=sharing
-Day 3 Workbook https://docs.google.com/document/d/1aqBpxwMsjJVy3uwghYIZn9Kxb5qw4MzuClENth6y4mk/edit?usp=sharing
-Day 6 Workbook https://docs.google.com/document/d/17YVwKji7JWS0Lb7sllx6aALIJ6yj1YAjrmbjFbgTk40/edit
-Day 7 Workbook https://docs.google.com/document/d/1oXrMpcXWdBaZ_vm44mpGm-hZRik6ByHSeAW2bS5w0cc/edit?usp=sharing
+- Day 1 Workbook https://docs.google.com/document/d/11BmsXZ9kF5FUI5_A__yEyMkvPGu-vN1inVZv2RY4LIE/edit?usp=sharing
+- Day 2 Workbook https://docs.google.com/document/d/1oyJ1V-gYGGxB5-6sQ4a6NH_bVj5fcuYQ24ON3G9CW5Y/edit?usp=sharing
+- Day 3 Workbook https://docs.google.com/document/d/1aqBpxwMsjJVy3uwghYIZn9Kxb5qw4MzuClENth6y4mk/edit?usp=sharing
+- Day 6 Workbook https://docs.google.com/document/d/17YVwKji7JWS0Lb7sllx6aALIJ6yj1YAjrmbjFbgTk40/edit
+- Day 7 Workbook https://docs.google.com/document/d/1oXrMpcXWdBaZ_vm44mpGm-hZRik6ByHSeAW2bS5w0cc/edit?usp=sharing
